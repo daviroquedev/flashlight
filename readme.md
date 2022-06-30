@@ -1,7 +1,7 @@
-#APP FLASHLIGHT 
+# APP FLASHLIGHT  EM CONSTRUÇÃO
 Projeto final do bootcamp Decola Tech.
 
-#PRIMEIRO PASSO
+# PRIMEIRO PASSO
 
 instalar as depedencias utilizando yarn
 
