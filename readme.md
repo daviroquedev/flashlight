@@ -29,7 +29,7 @@ utilizando uma variavel toggle = bool //true //false
 
 # DEPEDENCIAS
 
-precisamos das dependencias Torch e RNShake para ativar a lanterna com o chocoalho do celular. Utilizamos elas com o useEffect. 
+precisamos das dependencias Torch e RNShake para ativar a lanterna com o chacoalha do celular. Utilizamos elas com o useEffect. 
 
 import Torch from 'react-native-torch';
 import RNShake from 'react-native-shake'
