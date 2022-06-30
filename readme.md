@@ -1,4 +1,4 @@
-# APP FLASHLIGHT  EM CONSTRUÇÃO
+# APP FLASHLIGHT  
 Projeto final do bootcamp Decola Tech.
 
 # PRIMEIRO PASSO
